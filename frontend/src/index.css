@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Helvetica;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+    
+::-webkit-scrollbar-track {
+    background: #fface2; 
+}
+    
+::-webkit-scrollbar-thumb {
+    background: #ff76bd;
+}
+    
+::-webkit-scrollbar-thumb:hover {
+    background:#fd57ad; 
+}
