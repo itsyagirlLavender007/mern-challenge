@@ -10,7 +10,7 @@ Backend:
 -cd backend
 -npm install
 
-2. After the first step run this in the termial
+2. After the first step run this in the terminal
 
 Frontend:
 
